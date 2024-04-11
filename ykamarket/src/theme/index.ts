@@ -13,6 +13,7 @@ export default {
     red_light: "#EE7979",
   },
   FONT_FAMILY: {
+    LIGHT: "Karla_300Light",
     REGULAR: "Karla_400Regular",
     BOLD: "Karla_700Bold",
     EXTRABOLD: "Karla_800ExtraBold",
