@@ -9,6 +9,7 @@ export type ButtonProps = TouchableOpacityProps & ColorProps;
 
 export const Container = styled.TouchableOpacity<ButtonProps>`
   width: 100%;
+  flex-direction: row;
   height: 45px;
   margin: 16px 0;
   border-radius: 6px;
